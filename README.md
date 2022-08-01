@@ -32,7 +32,7 @@ This is a json file that lists out each import and alias.
 
 ### Config Example
 
-```json
+```js
 {
   // import widgetThing from @modules-shotcut/widget-thing;
   // will appear as in build:
